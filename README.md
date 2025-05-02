@@ -2,19 +2,12 @@
 
 This project is a Colorful Todo List application built using HTML and styled with Tailwind CSS. It provides a user-friendly interface for managing tasks with different priority levels.
 
-## Features
-
-- Add new tasks
-- Mark tasks as completed
-- Categorize tasks by priority (High, Medium, Low, Personal)
-- Clear completed tasks
-- Responsive design for mobile and desktop
 
 ## Technologies Used
 
 - HTML
 - Tailwind CSS
-- JavaScript
+
 
 ## Installation
 
